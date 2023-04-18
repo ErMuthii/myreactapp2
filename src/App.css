@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+#image {
+  height: 500px;
+  
+}
+
+#container {
+  background-color: #7c7e83;
+
+}
+
+#alert{
+  background-color: blanchedalmond;
+}
